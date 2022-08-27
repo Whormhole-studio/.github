@@ -1,5 +1,13 @@
-# 💫 About Me:
-⚒️ Working on multiple games:<br>- Lighthouse (a game set in a...lighthouse)<br>- Many more...<br><br>🦉 Looking for more members!<br><br><br>🪶 Created by Just_a_Mango & Anosk<br><br><br>
+# 💫 About us:
+⚒️ Working on **multiple games:**
+- **Lighthouse** (a game set in a...lighthouse)
+- Many more...
+
+&nbsp;\
+🦉 **Looking for more members**!
+
+
+🪶 Created by **[@just-a-mango](https://github.com/just-a-mango) & [@anousk](https://github.com/anousk)**
 
 
 # 💻 Tech Stack:
